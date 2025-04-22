@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Devagya Gupta</h1>
-<h3 align="center">🚀 Diving deep into the world of data, ML, and everything in between! 🚀</h3>
+<h3 align="center">🚀 A passionate learner exploring the world of data and intelligence! 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devagyagupta/" target="_blank">
