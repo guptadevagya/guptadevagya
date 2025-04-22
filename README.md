@@ -54,7 +54,3 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptadevagya&show_icons=true&locale=en&layout=compact" alt="guptadevagya Top Languages" /></p>
 <p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guptadevagya&" alt="guptadevagya GitHub Streak" /></p>
-
----
-
-*Feel free to customize this further!*
